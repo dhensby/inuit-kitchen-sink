@@ -1,0 +1,62 @@
+{
+  "name": "inuit-kitchen-sink",
+  "homepage": "https://github.com/dhensby/inuit-kitchen-sink",
+  "description": "All inuit-css packages with all features on by default",
+  "main": "kitchen-sink.scss",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css"
+  ],
+  "authors": [
+    "Daniel Hensby <@dhensby>"
+  ],
+  "license": "BSD",
+  "dependencies": {
+    "inuit-defaults": "latest",
+    "inuit-responsive-settings": "latest",
+    "inuit-functions": "latest",
+    "inuit-mixins": "latest",
+    "inuit-tools-widths": "latest",
+    "inuit-responsive-tools": "latest",
+    "inuit-normalize": "latest",
+    "inuit-reset": "latest",
+    "inuit-shared": "latest",
+    "inuit-box-sizing": "latest",
+    "inuit-page": "latest",
+    "inuit-headings": "latest",
+    "inuit-paragraphs": "latest",
+    "inuit-lists": "latest",
+    "inuit-images": "latest",
+    "inuit-buttons": "latest",
+    "inuit-tabs": "latest",
+    "inuit-tables": "latest",
+    "inuit-pack": "latest",
+    "inuit-media": "latest",
+    "inuit-list-ui": "latest",
+    "inuit-list-inline": "latest",
+    "inuit-list-block": "latest",
+    "inuit-list-bare": "latest",
+    "inuit-layout": "latest",
+    "inuit-flag": "latest",
+    "inuit-box": "latest",
+    "inuit-block": "latest",
+    "inuit-headings-trumps": "latest",
+    "inuit-spacing": "latest",
+    "inuit-widths": "latest",
+    "inuit-clearfix": "latest",
+    "inuit-print": "latest",
+    "inuit-widths-responsive": "latest",
+    "inuit-spacing-responsive": "latest"
+  },
+  "_release": "cbbce91edb",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "cbbce91edb1f6bbf95295cc33fdc84d15a8e16b2"
+  },
+  "_source": "git://github.com/dhensby/inuit-kitchen-sink.git",
+  "_target": "*",
+  "_originalSource": "inuit-kitchen-sink",
+  "_direct": true
+}
